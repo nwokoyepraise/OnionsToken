@@ -1,15 +1,17 @@
-# Basic Sample Hardhat Project
+# Onions Tokens
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### ERC20 Contract: https://rinkeby.etherscan.io/address/0x201015238FDA9eD20bC90283CE872E2472B48567
 
-Try running some of the following tasks:
+### ERC271 Contract: https://rinkeby.etherscan.io/address/0x2D9e2a09d874588f9fC42c69b5a6EF7f9CC0D10A
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+### ERC271 Metadata Structure: 
+```json {
+    "name": "Onions NFT",
+    "description": "Worlds first ever NFT just for onions!",
+    "image": "ipfs://bafkreicp7wzyzthmchnpyw65jaxejuo7hbbrlznlg4zygu43drpuqhc2yi",
+    "properties": [
+       { "trait_type": "blue"}
+    ]
+}```
+
+### IPFS link: ipfs://bafkreigjzs6xmmkdrpkrdzex4cryxpkcm6rgvdaiom5jgloghz66krtlra
