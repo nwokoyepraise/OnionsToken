@@ -4,14 +4,16 @@
 
 ### ERC271 Contract: https://rinkeby.etherscan.io/address/0x2D9e2a09d874588f9fC42c69b5a6EF7f9CC0D10A
 
+### IPFS link: https://bafkreigjzs6xmmkdrpkrdzex4cryxpkcm6rgvdaiom5jgloghz66krtlra.ipfs.dweb.link/
+
 ### ERC271 Metadata Structure: 
-```json {
+```json 
+{
     "name": "Onions NFT",
     "description": "Worlds first ever NFT just for onions!",
     "image": "ipfs://bafkreicp7wzyzthmchnpyw65jaxejuo7hbbrlznlg4zygu43drpuqhc2yi",
     "properties": [
        { "trait_type": "blue"}
     ]
-}```
-
-### IPFS link: ipfs://bafkreigjzs6xmmkdrpkrdzex4cryxpkcm6rgvdaiom5jgloghz66krtlra
+}
+```
